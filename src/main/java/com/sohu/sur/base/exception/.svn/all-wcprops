@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sur/!svn/ver/1949/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/base/exception
+END
+SucBrandException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/base/exception/SucBrandException.java
+END
+NoMedalsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sur/!svn/ver/1949/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/base/exception/NoMedalsException.java
+END
+CacheException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/base/exception/CacheException.java
+END
+SucBuyGiftException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/base/exception/SucBuyGiftException.java
+END
+SucGiftException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/base/exception/SucGiftException.java
+END
+SucCatetoryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/base/exception/SucCatetoryException.java
+END
+SucRemoteException.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/base/exception/SucRemoteException.java
+END
+SucScoreException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/base/exception/SucScoreException.java
+END
+SucNoEnoughScoreException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/base/exception/SucNoEnoughScoreException.java
+END
+SucException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/base/exception/SucException.java
+END
+SucTradeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/base/exception/SucTradeException.java
+END
+SucLotteryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/base/exception/SucLotteryException.java
+END
+SucCacheException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/base/exception/SucCacheException.java
+END
+SucRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/base/exception/SucRuntimeException.java
+END

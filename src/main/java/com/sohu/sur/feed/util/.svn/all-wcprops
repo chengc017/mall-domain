@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/feed/util
+END
+ByteArrayUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/feed/util/ByteArrayUtil.java
+END
+PingUdpClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/feed/util/PingUdpClient.java
+END
+FeedMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/feed/util/FeedMsg.java
+END

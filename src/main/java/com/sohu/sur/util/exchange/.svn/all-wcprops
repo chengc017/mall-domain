@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sur/!svn/ver/2420/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/exchange
+END
+ExchangeResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sur/!svn/ver/2420/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/exchange/ExchangeResult.java
+END
+StringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sur/!svn/ver/1964/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/exchange/StringUtil.java
+END
+ExchangeGiftList.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sur/!svn/ver/2036/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/exchange/ExchangeGiftList.java
+END
+ExchangeGift.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sur/!svn/ver/2036/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/exchange/ExchangeGift.java
+END

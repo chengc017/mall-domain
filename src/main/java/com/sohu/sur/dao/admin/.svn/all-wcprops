@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sur/!svn/ver/2062/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/dao/admin
+END
+PageDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/dao/admin/PageDao.java
+END
+CategoryDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/dao/admin/CategoryDao.java
+END
+RegionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/dao/admin/RegionDao.java
+END
+MallRoleFuncDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/dao/admin/MallRoleFuncDao.java
+END
+MallUserDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/dao/admin/MallUserDao.java
+END
+BrandDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/dao/admin/BrandDao.java
+END
+SucLotteryGiftDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/dao/admin/SucLotteryGiftDao.java
+END
+MallLogDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/dao/admin/MallLogDao.java
+END
+GoodUserDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sur/!svn/ver/1788/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/dao/admin/GoodUserDao.java
+END
+SucAbstractGiftDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/dao/admin/SucAbstractGiftDao.java
+END
+MallFuncDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/dao/admin/MallFuncDao.java
+END
+LotteryShowDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sur/!svn/ver/2062/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/dao/admin/LotteryShowDao.java
+END
+StocksDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/dao/admin/StocksDao.java
+END
+MallUserRoleDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/dao/admin/MallUserRoleDao.java
+END
+SucExchangeGiftDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/dao/admin/SucExchangeGiftDao.java
+END
+MallRoleDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/dao/admin/MallRoleDao.java
+END

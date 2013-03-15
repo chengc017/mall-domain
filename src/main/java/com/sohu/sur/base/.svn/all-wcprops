@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sur/!svn/ver/1949/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/base
+END
+HibernateBaseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/base/HibernateBaseDao.java
+END
+IBaseDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/base/IBaseDAO.java
+END
+SearchCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/base/SearchCondition.java
+END
+BaseHibernateDaoSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/base/BaseHibernateDaoSupport.java
+END

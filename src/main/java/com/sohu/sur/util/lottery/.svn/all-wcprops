@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sur/!svn/ver/2596/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/lottery
+END
+UseMedal.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sur/!svn/ver/1941/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/lottery/UseMedal.java
+END
+LotteryResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sur/!svn/ver/1941/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/lottery/LotteryResult.java
+END
+GiftQueryCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sur/!svn/ver/1941/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/lottery/GiftQueryCriteria.java
+END
+LotteryUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sur/!svn/ver/2147/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/lottery/LotteryUtils.java
+END
+LotteryGiftList.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sur/!svn/ver/2077/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/lottery/LotteryGiftList.java
+END
+UserScoreUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sur/!svn/ver/2596/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/lottery/UserScoreUtil.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sur/!svn/ver/1963/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/lottery/Constants.java
+END
+LotteryGift.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sur/!svn/ver/2077/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/lottery/LotteryGift.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sur/!svn/ver/1941/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/lottery/Util.java
+END
+WorkDistributor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sur/!svn/ver/1941/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/lottery/WorkDistributor.java
+END

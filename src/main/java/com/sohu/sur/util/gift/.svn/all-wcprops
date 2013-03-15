@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sur/!svn/ver/2562/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/gift
+END
+GiftEnumUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sur/!svn/ver/2497/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/gift/GiftEnumUtils.java
+END
+ScoreAndMedal.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sur/!svn/ver/2562/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/gift/ScoreAndMedal.java
+END
+MedalsUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/gift/MedalsUtil.java
+END
+ResultBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sur/!svn/ver/2022/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/gift/ResultBean.java
+END
+GiftConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sur/!svn/ver/1770/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/gift/GiftConstants.java
+END
+SendHTMLEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sur/!svn/ver/2022/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/gift/SendHTMLEmail.java
+END
+MedalsJsonParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/gift/MedalsJsonParse.java
+END
+TopGift.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sur/!svn/ver/1993/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/gift/TopGift.java
+END
+SendMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sur/!svn/ver/2022/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/gift/SendMessage.java
+END
+StrMD5.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sur/!svn/ver/2022/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/gift/StrMD5.java
+END

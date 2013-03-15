@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/dto
+END
+Medal.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/dto/Medal.java
+END
+BrandSearchCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/dto/BrandSearchCondition.java
+END
+LogoVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/dto/LogoVO.java
+END
+GiftSearchCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/dto/GiftSearchCondition.java
+END
+LogoTypeVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/dto/LogoTypeVO.java
+END
+OrderSearchCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/dto/OrderSearchCondition.java
+END
+CategorySearchCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/dto/CategorySearchCondition.java
+END

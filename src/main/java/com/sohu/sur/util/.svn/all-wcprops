@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sur/!svn/ver/2596/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util
+END
+HttpCilentUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sur/!svn/ver/2320/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/HttpCilentUtils.java
+END
+ConfigManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/ConfigManager.java
+END
+VisitLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sur/!svn/ver/2403/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/VisitLog.java
+END
+PaybackUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sur/!svn/ver/1817/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/PaybackUtil.java
+END
+DateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/DateUtil.java
+END
+OrderEnumUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sur/!svn/ver/2353/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/OrderEnumUtils.java
+END
+XmlUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/XmlUtils.java
+END
+PagerFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/PagerFacade.java
+END
+Image.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sur/!svn/ver/1705/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/Image.java
+END
+HibernateUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/HibernateUtils.java
+END
+Md5Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/Md5Util.java
+END
+CdsConstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/CdsConstant.java
+END
+EnumUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/EnumUtils.java
+END
+PaginationSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/PaginationSupport.java
+END
+CatetoryConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/CatetoryConstants.java
+END
+DateDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/DateDistance.java
+END
+Constant.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sur/!svn/ver/2410/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/Constant.java
+END
+Pagination.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/Pagination.java
+END
+ChangeBonusResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sur/!svn/ver/1817/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/ChangeBonusResult.java
+END
+PicUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sur/!svn/ver/1942/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/PicUtils.java
+END
+ExcelUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sur/!svn/ver/2328/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/ExcelUtil.java
+END
+DateUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sur/!svn/ver/1851/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/util/DateUtils.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sur/!svn/ver/2826/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/service
+END
+UserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/service/UserService.java
+END
+MallOrderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sur/!svn/ver/2734/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/service/MallOrderService.java
+END
+ExchangeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sur/!svn/ver/2826/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/service/ExchangeService.java
+END
+LotteryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sur/!svn/ver/2760/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/service/LotteryService.java
+END
+LotteryShowService.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sur/!svn/ver/2062/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/service/LotteryShowService.java
+END
+BrandService.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/service/BrandService.java
+END
+StocksService.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sur/!svn/ver/1944/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/service/StocksService.java
+END
+GoodUserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sur/!svn/ver/2179/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/service/GoodUserService.java
+END
+MallLogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/service/MallLogService.java
+END
+GiftService.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sur/!svn/ver/2502/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/service/GiftService.java
+END
+PageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/service/PageService.java
+END
+CategoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sur/!svn/ver/1698/trunk/sur-app-from-branch/mall-domain/src/main/java/com/sohu/sur/service/CategoryService.java
+END
